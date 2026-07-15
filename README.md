@@ -8,6 +8,9 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/eea45def-0b2c-42b2-a68a-c1178af6f258
 
+or
+https://jupitor.ai.studio
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
