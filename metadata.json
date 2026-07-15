@@ -1,0 +1,6 @@
+{
+  "name": "Jupitor: Celestial Gravity & Moons Laboratory",
+  "description": "An interactive 2D orbital gravity simulator of Jupiter and its Galilean moons (Io, Europa, Ganymede, Callisto). Control time-scale warping, customize gravitational parameters, toggle vector sensor fields, and launch custom space probes using a precision Newtonian N-body slingshot flight engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
